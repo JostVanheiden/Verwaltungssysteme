@@ -4,7 +4,6 @@ XXO
 
 GG
 
-X - -
+X X -
 - O -
-- - -
-augfiuaof
+- O -
